@@ -1,6 +1,6 @@
 {
   "name": "@weizenyoung/multi-cart-public",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/multi-cart.js",
   "scripts": {
