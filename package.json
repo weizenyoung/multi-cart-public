@@ -1,0 +1,19 @@
+{
+  "name": "@weizenyoung/multi-cart-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/multi-cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weizenyoung/multi-cart-public.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weizenyoung/multi-cart-public/issues"
+  },
+  "homepage": "https://github.com/weizenyoung/multi-cart-public#readme"
+}
